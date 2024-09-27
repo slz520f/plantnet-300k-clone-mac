@@ -54,7 +54,7 @@ sqlparse==0.5.1
 sympy==1.13.3
 tensorboard==2.17.1
 tensorboard-data-server==0.7.2
-tensorflow==2.17.0
+tensorflow==2.15.0
 tensorflow-estimator==2.15.0
 tensorflow-io-gcs-filesystem==0.37.1
 tensorflow-macos==2.15.0
